@@ -15,16 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=26&pause=1200&color=0EA5E9&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Sai+Laxman+Rao+Kothakota;Full-Stack+Developer+%7C+Spring+Boot+%26+React;Backend-Focused+Engineer+%7C+DSA+in+Python;Hackathon+Winner+%7C+Branch+Rank+3" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=26&pause=1200&color=0EA5E9&center=true&vCenter=true&width=900&lines=Hi%2C+I'Hema+Latha+Cherukuru;Full-Stack+Developer+%7C+Spring+Boot+%26+React;Backend-Focused+Engineer+%7C+DSA+in+Python;" />
 </p>
 
 <h2 align="center">Full-Stack Developer • Backend Engineer • Problem Solver</h2>
 
 <p align="center">
-  <a href="https://github.com/2300090230">GitHub</a> •
-  <a href="https://kothakotasailaxmanrao.vercel.app/">Portfolio</a> •
-  <a href="mailto:2300090230csit@gmail.com">Email</a> •
-  <a href="https://www.youtube.com/@KOTHAKOTALAXMAN">YouTube</a>
+  <a href="https://github.com/cherukuru05">GitHub</a> •
+  <a href="cherukuru05@gmail.com">Email</a> •
 </p>
 
 ---
@@ -33,10 +31,9 @@ Here are some ideas to get you started:
 
 I am a **Full-Stack Developer** with hands-on experience building **scalable, real-world web applications** using **Spring Boot, React, and MongoDB**.  
 
-I enjoy solving problems using **Data Structures & Algorithms in Python**, designing clean APIs, and working on platforms that create **real impact**, especially in **e-commerce, sustainability, and AgriTech domains**.
+I enjoy solving problems using **Data Structures & Algorithms in python**, designing clean APIs, and working on platforms that create **real impact**, especially in **e-commerce, sustainability, and AgriTech domains**.
 
-- 🏆 Hackathon Winner (Code4Change 2025)
-- 🥉 Branch Rank 3 (Academics)
+- 🥉 cgpa:8.84 (Academics)
 - 👨‍🏫 Mentor & community contributor
 - 🚀 Strong believer in clean code & system design
 
@@ -45,16 +42,13 @@ I enjoy solving problems using **Data Structures & Algorithms in Python**, desig
 ## 🛠 Technical Skills
 
 ### Languages
-`Python` `Java` `C`
-
-### Backend
-`Spring Boot` `Spring` `Hibernate` `REST APIs`
+`Python` `Java` `C++`
 
 ### Frontend
 `React.js` `HTML` `Tailwind CSS` `JavaScript`
 
 ### Databases
-`MySQL` `MongoDB`
+`SQL` `MongoDB`
 
 ### Tools & DevOps
 `Git` `GitHub` `Postman` `Docker` `Kubernetes` `Jenkins`
@@ -66,7 +60,7 @@ I enjoy solving problems using **Data Structures & Algorithms in Python**, desig
 
 ## 📌 Featured Projects
 
-### LL-CART — Full-Stack E-Commerce Platform
+### Trend-Wave-CART — Full-Stack E-Commerce Platform
 **Tech:** React.js • Spring Boot • MongoDB  
 
 - Role-based system (Admin / Seller / Buyer)
@@ -78,36 +72,10 @@ I enjoy solving problems using **Data Structures & Algorithms in Python**, desig
 
 ---
 
-### GreenByte — Gamified Sustainability Platform
-**Tech:** React.js • Spring Boot • MongoDB  
-
-- Rewards eco-friendly actions
-- Carbon score tracking & analytics
-- Marketplace for sustainable products
-
-🔗 Live: https://carbonbyte.vercel.app  
-📂 Repo: https://github.com/MINDSPRINT-2K25/greenbyte.git  
-
----
-
 ### Portfolio Website
 Personal portfolio showcasing projects, skills, and experience.
-
-🔗 Live: https://kothakotasailaxmanrao.vercel.app  
-📂 Repo: https://github.com/2300090230/KothakotaSaiLaxmanRao.git  
-
 ---
 
-## 🏆 Achievements
-
-- **🥇 Hackathon Winner – Code4Change 2025**
-  - 1st place among 100+ teams
-  - Built a Carbon Footprint Tracking App with analytics & recommendations
-
-- **🥉 Branch Rank 3**
-  - Strong academic consistency with practical engineering skills
-
----
 
 ## 🧠 Problem Solving & DSA
 
@@ -140,26 +108,13 @@ Personal portfolio showcasing projects, skills, and experience.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2300090230&layout=compact&theme=default" />
 </p>
-
----
-
-## 👥 Community & Teaching
-
-- **BeOneCommunity Club Member**
-  - Teaching juniors & academic mentoring
-
-- **LL-TechTalks (YouTube)**
-  - Sharing programming & development knowledge  
-  🔗 https://www.youtube.com/@KOTHAKOTALAXMAN  
-
 ---
 
 ## 📫 Contact
 
-- 📧 Email: **2300090230csit@gmail.com**
-- 📞 Phone: **9392318005**
-- 🌐 Portfolio: https://kothakotasailaxmanrao.vercel.app
-- 💻 GitHub: https://github.com/2300090230
+- 📧 Email: **cherukuru05@gmail.com**
+- 📞 Phone: **9346445296**
+
 
 ---
 
