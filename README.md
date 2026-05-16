@@ -67,8 +67,7 @@ I enjoy solving problems using **Data Structures & Algorithms in python**, desig
 - Product management, cart, orders & seller approvals
 - Clean backend architecture with REST APIs
 
-🔗 Live: https://llcart.vercel.app  
-📂 Repo: https://github.com/2300090230/LL-Cart.git  
+
 
 ---
 
