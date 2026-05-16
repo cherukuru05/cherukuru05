@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=26&pause=1200&color=0EA5E9&center=true&vCenter=true&width=900&lines=Hi%2C+I'Hema+Latha+Cherukuru;Full-Stack+Developer+%7C+Spring+Boot+%26+React;Backend-Focused+Engineer+%7C+DSA+in+Python;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=26&pause=1200&color=0EA5E9&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Hema+Latha+Cherukuru;Full-Stack+Developer+%7C+Spring+Boot+%26+React;Backend-Focused+Engineer+%7C+DSA+in+Python;" />
 </p>
 
 <h2 align="center">Full-Stack Developer • Backend Engineer • Problem Solver</h2>
